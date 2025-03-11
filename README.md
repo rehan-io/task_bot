@@ -1,4 +1,4 @@
-# StudyGroupTasksBot
+# Group Tasks
 
 A Telegram bot to help study groups organize and track tasks.
 
